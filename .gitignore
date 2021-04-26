@@ -22,6 +22,5 @@ lerna-debug.log
 .env.local
 
 # ide
-/.vscode
 /.idea
 
