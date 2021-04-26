@@ -66,6 +66,13 @@ sudo spctl --master-disable
   Oh-my-zsh 是一个开源的、基于社区驱动的框架，用于管理 Zsh 配置。它拥有非常多的功能，辅助，插件，主题,使用起来非常的便捷;
   [我使用的 zsh 配置](https://github.com/FE-ng/docsify-website/blob/main/.zshrc.md);
 
+- [chrome](https://www.google.com/intl/zh-CN/chrome/)
+  开发人员使用的最多浏览器,不多赘述,好用的插件另起一遍介绍;
+
+- [vscode](https://code.visualstudio.com/)
+  现阶段前端使用最多的 IDE,由微软开发维护,支持非常多的语言,有茫茫多的开发插件和活跃的社区;  
+  这里的插件也需要另起一篇文章介绍
+
 - [iStat Menus （电脑性能监控）](https://bjango.com/mac/istatmenus/)  
    功能非常的强大 能够查看 mac 的各种信息并且支持自定义自己喜欢的表现形式和颜色;  
   <img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210426140334.png" style="width:600px;"/>
@@ -83,3 +90,9 @@ sudo spctl --master-disable
 - [Parallels Desktop](https://www.parallels.cn/)  
   官网介绍: 无需重启即可在 Mac（包括新型 Apple M1 芯片）上运行 Windows 的应用程序，同时具有速度更快、操作更简单且功能更强大的优点。包括 30 余种实用工具，可简化 Mac 和 Windows 上的日常任务  
   平时用的不多,不过在 mac 上能够做到不切换系统而使用 windows 必要的时候倒是很方便
+- [hammerspoon](http://www.hammerspoon.org/)
+  这是一个用于 OS x 强大自动化的工具。在其核心上，Hammerspoon 只是操作系统和 Lua 脚本引擎之间的桥梁。赋予 Hammerspoon 强大功能的是一组向用户公开系统功能特定部分的扩展。
+  小锤子! 它能做到什么? 可以给 mac 的软件设置开启(切换)的快捷键,可以迅速给当前运行的窗口分屏二分之一屏(三分之一屏幕),  
+  更能够在我们使用多屏开发时使用设置好的,将选中的窗口在多个屏幕转移,能够通过预设来切换语言中英文输入法等等等等!异常的强大;  
+  只是配置起来稍有门槛,但是社区早已有前辈为我们铺好了道路;
+  [这是我的配置](https://github.com/FE-ng/.hammerspoon);
