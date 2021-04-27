@@ -38,12 +38,13 @@
     github 的补充,能够用树状图的形式查看项目
 17. [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
     跨平台测试 Chrome 应用和网站
-18.
-
-Wappalyzer
-掘金 0.3.9
-集装箱
-CSS Peeper
-
-fun
-类似的网站 - 发现相关网站
+18. [Wappalyzer](https://www.wappalyzer.com/)  
+    能够查看当前网站所采用的开发技术栈
+19. [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb)
+    国内前端开发活跃(摸鱼)的社区, 该插件每日能够直接展示新的文章,并且推荐 github 上有意思的项目
+20. [集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)
+    听说是功能很强大,但我目前并没有特别深的感受,以后有发现的话再补充吧
+21. [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+    可以直观的展示页面的 css 样式
+22. [类似的网站] (https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)  
+    以网寻网
