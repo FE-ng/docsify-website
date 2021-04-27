@@ -7,11 +7,9 @@
 3. js RegExp 总结分享
 4. git 分享的记录
 5. git 分支内容的补充
-6. git 子仓库结束
+6. git 子仓库介绍
 7. haomo 项目总结 通用: 视频流的建立
-
-- styleComponents 的动画使用
-
+   - styleComponents 的动画使用
 8. npm npx cnpm yarn pnpm ?
 9. Rxjs 流式管理
 10. github vue 项目中的记录的转移
