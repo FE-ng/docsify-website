@@ -3,20 +3,28 @@
 有条件的还是推荐申请一个 chrome 账号  
 账号能够自动保存自己的插件,书签,一次配置终身享受
 
-1. [Chrome Better History](chrome://extensions/?id=egehpkpgpgooebopjihjmnpejnjafefi)
+1. [Chrome Better History](chrome://extensions/?id=egehpkpgpgooebopjihjmnpejnjafefi)  
    加强历史记录
-2. EditThisCookie
+2. [EditThisCookie](http://www.editthiscookie.com/)  
    处理 cookie
-3. GitHub Isometric Contributions
-   github 贡献 3D 化 无他就是炫
+3. [GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien)  
+   提供 github 3D 化的贡献值切换 炫就完事了
 4. [Checker Plus for Gmail™ ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj/related?utm_source=chrome-ntp-icon)
 
-Diigo Web Collector - Capture and Annotate
-广告终结者
-OneTab
-Proxy SwitchyOmega
-Surfingkeys
-Tampermonkey BETA
+5. [Diigo Web Collector - Capture and Annotate](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh)  
+   可以对网页进行标注
+   [官网](https://www.diigo.com/) 需要 KeXue 上网
+6. [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
+   可以帮助我们拦截网页弹窗、去除视频开头和中间的广告、去除追踪代码等 独到的优点: 占用的内存非常少,能够自定义规则;
+7. [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  
+   标签开了不想关同胞的福音,可以储存起来 '日'后再看!有种收藏的感觉,并且据官方宣称能减少 95%的内存占用
+8. [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  
+   代理神器(懂得都懂) [我的配置]()
+9. [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)  
+   vim 的替代 酷炫拽 后续补充
+10. [Tampermonkey BETA](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)  
+    红猴子
+
 沙拉查词-聚合词典划词翻译
 Nimbus 截幕 & 屏幕录像机
 
