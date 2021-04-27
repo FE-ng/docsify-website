@@ -23,16 +23,23 @@
 9. [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)  
    vim 的替代 酷炫拽 后续补充
 10. [Tampermonkey BETA](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)  
-    红猴子
+    红猴子 神器之一 非常强大 另外补充
+11. [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/)  
+    目前个人感觉最好用的翻译插件 可以用于搜索的引擎多 并且也可以用于网上 pdf 的翻译
+12. [Nimbus 截幕 & 屏幕录像机](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)  
+    可以进行操作录像截图,滚动截图 强大
+13. [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)  
+    react 开发插件 开发必备
+14. [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)  
+    react 开发插件 开发必备 能够查看存在 store 中的数据流向
+15. [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+    vue 开发插件 开发必备 vue 开发该不会还有人没有用过吧?
+16. [Octotree - GitHub code tree](https://www.octotree.io/)  
+    github 的补充,能够用树状图的形式查看项目
+17. [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+    跨平台测试 Chrome 应用和网站
+18.
 
-沙拉查词-聚合词典划词翻译
-Nimbus 截幕 & 屏幕录像机
-
-React Developer Tools
-Redux DevTools
-User-Agent Switcher for Chrome
-Vue.js devtools
-Octotree - GitHub code tree
 Wappalyzer
 掘金 0.3.9
 集装箱
