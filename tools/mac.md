@@ -68,7 +68,7 @@ sudo spctl --master-disable
 
 - [chrome](https://www.google.com/intl/zh-CN/chrome/)
   开发人员使用的最多浏览器,不多赘述,好用的插件另起一遍介绍;  
-  [插件传送门](./chromePlugin.md)
+  [插件传送门](https://docsify-website-lf.vercel.app/#/tools/chromePlugin)
 
 - [vscode](https://code.visualstudio.com/)
   现阶段前端使用最多的 IDE,由微软开发维护,支持非常多的语言,有茫茫多的开发插件和活跃的社区;  
