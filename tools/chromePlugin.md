@@ -4,13 +4,13 @@
 账号能够自动保存自己的插件,书签,一次配置终身享受
 
 1. [Chrome Better History](chrome://extensions/?id=egehpkpgpgooebopjihjmnpejnjafefi)  
+   <img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428192155.png" :class='image400'/>
    加强历史记录
 2. [EditThisCookie](http://www.editthiscookie.com/)  
    处理 cookie
 3. [GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien)  
    提供 github 3D 化的贡献值切换 炫就完事了
 4. [Checker Plus for Gmail™ ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj/related?utm_source=chrome-ntp-icon)
-
 5. [Diigo Web Collector - Capture and Annotate](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh)  
    可以对网页进行标注
    [官网](https://www.diigo.com/) 需要 KeXue 上网
