@@ -25,8 +25,9 @@
     该插件能够让我们及时收到新邮件的通知,丰富 gmail 的提醒,并且能够小窗查看;
 
 5.  [Diigo Web Collector - Capture and Annotate](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh)  
-    可以对网页进行标注
-    [官网](https://www.diigo.com/) 需要 KeXue 上网
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428195021.png ':class=image400')  
+    [官网](https://www.diigo.com/) 需要 KeXue 上网, 该插件可以对网页进行标注,能够帮助我们记录一些工作内容;
+
 6.  [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
     可以帮助我们拦截网页弹窗、去除视频开头和中间的广告、去除追踪代码等 独到的优点: 占用的内存非常少,能够自定义规则;
 7.  [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  
