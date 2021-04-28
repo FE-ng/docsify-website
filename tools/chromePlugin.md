@@ -20,6 +20,10 @@
     提供 github 2D -->3D 的贡献值切换 炫就完事了
 
 4.  [Checker Plus for Gmail™ ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj/related?utm_source=chrome-ntp-icon)
+
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428194556.png ':class=image400')  
+    该插件能够让我们及时收到新邮件的通知,丰富 gmail 的提醒,并且能够小窗查看;
+
 5.  [Diigo Web Collector - Capture and Annotate](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh)  
     可以对网页进行标注
     [官网](https://www.diigo.com/) 需要 KeXue 上网
