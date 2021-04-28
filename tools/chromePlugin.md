@@ -7,15 +7,18 @@
 
     <img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428192155.png" class='image800'/>
 
-    该插件能够加强 chrome 的历史记录页面,以如期对记录进行了归档 并且可以直接搜索
+    该插件能够加强 chrome 的历史记录页面,以日期对记录进行了归档 并且可以直接搜索
 
 2.  [EditThisCookie](http://www.editthiscookie.com/)  
     ![EditThisCookie](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428192924.png ':class=image400')
 
-    处理 cookie
+    能够在当前域下便捷的处理 cookie,支持一键导入;
 
 3.  [GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien)  
-    提供 github 3D 化的贡献值切换 炫就完事了
+    ![插件效果](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428194015.png ':class=image400')
+
+    提供 github 2D -->3D 的贡献值切换 炫就完事了
+
 4.  [Checker Plus for Gmail™ ](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj/related?utm_source=chrome-ntp-icon)
 5.  [Diigo Web Collector - Capture and Annotate](https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh)  
     可以对网页进行标注
