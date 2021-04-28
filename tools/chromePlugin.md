@@ -4,9 +4,10 @@
 账号能够自动保存自己的插件,书签,一次配置终身享受
 
 1. [Chrome Better History](chrome://extensions/?id=egehpkpgpgooebopjihjmnpejnjafefi)  
-   <img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428192155.png" :class='image400'/>
+   <img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428192155.png" class='image400'/>  
    加强历史记录
 2. [EditThisCookie](http://www.editthiscookie.com/)  
+   ![EditThisCookie](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428192924.png ':class=image400')
    处理 cookie
 3. [GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien)  
    提供 github 3D 化的贡献值切换 炫就完事了
