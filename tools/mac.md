@@ -16,25 +16,25 @@ MacBook 提供了强大的触控板硬件，支持用力点按和多指触控。
 
 1. 系统偏好设置 > 触控板
 
-- <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/cursor.png"  alt="光标与点按" align=center />
+   <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/cursor.png"  alt="光标与点按" align=center />
 
----
+   ***
 
-- <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/transform.png"  alt="滚动与缩放" align=center />
+   <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/transform.png"  alt="滚动与缩放" align=center />
 
----
+   ***
 
-- <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/moreGesture.png"  alt="更多手势" align=center />
+   <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/moreGesture.png"  alt="更多手势" align=center />
 
 2. 系统偏好设置 > 辅助功能 > 指针控制 > 三指拖拽(个人感觉体验非常棒的功能)
 
-- <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/pointerControl.png"  alt="入口" align=center />
+  <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/pointerControl.png"  alt="入口" align=center />
 
 ---
 
-- <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/thrFingerDrag.png"  alt="设置" align=center />
+  <img style="width:600px;" src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/thrFingerDrag.png"  alt="设置" align=center />
 
-  **建议全部拉满** 并且具体配置可以看图片,光标移动速度可以按照自己的习惯设置
+**建议全部拉满** 具体配置可参考图片,光标移动速度可以按照自己的习惯设置
 
 ### 软件安装设置
 
