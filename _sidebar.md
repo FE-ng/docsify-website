@@ -5,4 +5,5 @@
   - 收录插件配置
     - [chrome 配置](/tools/chromePlugin.md)
     - [tampermonkey](/tools/tampermonkey.md)
+  - [本 blog 搭建](/tools/blog.md)
   - [TODO](/todo.md)
