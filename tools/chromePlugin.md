@@ -37,7 +37,7 @@
 9.  [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)  
     vim 的替代 酷炫拽 后续补充
 10. [Tampermonkey BETA](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)  
-    红猴子 神器之一 非常强大 [介绍](./tampermonkey.md)
+    红猴子 神器之一 非常强大 [介绍](/tampermonkey.md)
 11. [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/)  
     目前个人感觉最好用的翻译插件 可以用于搜索的引擎多 并且也可以用于网上 pdf 的翻译
 12. [Nimbus 截幕 & 屏幕录像机](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)  
@@ -60,5 +60,5 @@
     听说是功能很强大,但我目前并没有特别深的感受,以后有发现的话再补充吧
 21. [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
     可以直观的展示页面的 css 样式
-22. [类似的网站] (https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)  
+22. [类似的网站](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)  
     以网寻网
