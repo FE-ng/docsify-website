@@ -2,6 +2,7 @@
 module.exports = {
   types: [
     { value: 'feat', name: 'feat: 新功能' },
+    { value: 'docs', name: 'docs: 修改文档' },
     { value: 'fix', name: 'fix: 修复 BUG' },
     { value: 'merge', name: 'merge: 合并代码' },
     {
@@ -18,12 +19,11 @@ module.exports = {
       name: 'chore: 构建过程或辅助工具和库 (如文档生成) 的更改',
     },
     { value: 'test', name: 'test: 增加或修改测试用例' },
-    { value: 'docs', name: 'docs: 修改文档' },
     { value: 'perf', name: 'perf: 提升性能' },
     { value: 'revert', name: 'revert: 回滚到某一个版本 (带上版本号)' },
     { value: 'anno', name: 'anno: 修改注释' },
   ],
-  scopes: ['containers', 'components', 'static', 'docs', 'config', 'hooks', 'state', 'utils'],
+  scopes: ['docs', 'containers', 'components', 'static', 'config', 'hooks', 'state', 'utils'],
   skipQuestions: ['body', 'breaking', 'footer'],
   messages: {
     type: '选择要提交的更改类型:',
