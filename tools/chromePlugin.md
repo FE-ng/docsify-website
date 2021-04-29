@@ -3,10 +3,14 @@
 有条件的还是推荐申请一个 chrome 账号  
 账号能够自动保存自己的插件,书签,一次配置终身享受
 
+?> _TODO_ 增加插件 icon
+
 ## 通用型插件
 
 1. [Tampermonkey BETA](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)  
-   红猴子 神器之一 非常强大 [<=================介绍=================>](/tools/tampermonkey.md)
+   红猴子 神器之一 非常强大
+
+   !> [<=================介绍=================>](/tools/tampermonkey.md)
 
 2. [Chrome Better History](chrome://extensions/?id=egehpkpgpgooebopjihjmnpejnjafefi)
 
@@ -35,8 +39,9 @@
 
 7. [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 
-   代理神器(懂得都懂) [<=================我的配置=================>](/tools/switchOmega.md)  
    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429134615.png ':class=image400')
+
+   !> 代理神器(懂得都懂) [<=================我的配置=================>](/tools/switchOmega.md)
 
 8. [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)
 
