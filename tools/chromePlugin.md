@@ -6,7 +6,7 @@
 ## 通用型插件
 
 1. [Tampermonkey BETA](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)  
-   红猴子 神器之一 非常强大 [介绍](/tools/tampermonkey.md)
+   红猴子 神器之一 非常强大 [**介绍**](/tools/tampermonkey.md)
 
 2. [Chrome Better History](chrome://extensions/?id=egehpkpgpgooebopjihjmnpejnjafefi)
 
@@ -25,7 +25,7 @@
 
 5. [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
-   ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429111356.png ':class=image400')
+   ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429111356.png ':class=image400')  
    可以帮助我们拦截网页弹窗、去除视频开头和中间的广告、去除追踪代码等;
    和其他去屏蔽广告相比的优点: 占用的**内存少**,能够**自定义规则**;
 
@@ -35,7 +35,7 @@
 
 7. [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
 
-   代理神器(懂得都懂) [**我的配置**](/tools/switchOmega.md)
+   代理神器(懂得都懂) [**我的配置**](/tools/switchOmega.md)  
    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429134615.png ':class=image400')
 
 8. [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)
@@ -50,29 +50,32 @@
 
 10. [Nimbus 截幕 & 屏幕录像机](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)
 
-    可以进行**录像截图**,**滚动截图**等; 唯一的槽点是截图之后并不是直接保存而是跳到一个设置页面, 暂时不能够直接保存到剪切板;
-    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429113420.png ':class=image400')
+    可以进行**录像截图**,**滚动截图**等; 唯一的槽点是截图之后并不是直接保存而是跳到一个设置页面, 暂时不能够直接保存到剪切板;  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429113420.png ':class=image400')  
     ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/11111.png ':class=image400')
 
 ## 开发常用插件
 
 1. [EditThisCookie](http://www.editthiscookie.com/)
 
-   ![EditThisCookie](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428192924.png ':class=image400')
+   ![EditThisCookie](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428192924.png ':class=image400')  
    能够在当前域下便捷的处理 cookie,支持一键导入;
 
 2. [GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien)
 
-   ![插件效果](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428194015.png ':class=image400')
+   ![插件效果](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428194015.png ':class=image400')  
    提供 github 2D -->3D 的贡献值切换 炫就完事了
 
-3. [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)  
+3. [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+
    react 开发插件 开发必备
 
-4. [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)  
+4. [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+
    react 开发插件 开发必备 能够查看存在 store 中的数据流向
 
 5. [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
    vue 开发插件 开发必备 vue 开发该不会还有人没有用过吧?
 
 6. [Octotree - GitHub code tree](https://www.octotree.io/)
@@ -91,7 +94,7 @@
 
 9. [集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)
 
-   ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114211.png ':class=image400')
+   ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114211.png ':class=image400')  
    听说是功能很强大,但我目前并没有特别深的感受,以后有发现的话再补充吧
 
 10. [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
