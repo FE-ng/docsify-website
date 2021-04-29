@@ -29,7 +29,9 @@
     [官网](https://www.diigo.com/) 需要 KeXue 上网, 该插件可以对网页进行标注,能够帮助我们记录一些工作内容;
 
 6.  [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
-    可以帮助我们拦截网页弹窗、去除视频开头和中间的广告、去除追踪代码等 独到的优点: 占用的内存非常少,能够自定义规则;
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429111356.png ':class=image400')
+    可以帮助我们拦截网页弹窗、去除视频开头和中间的广告、去除追踪代码等;
+    和其他去屏蔽广告相比的优点: 占用的**内存少**,能够**自定义规则**;
 7.  [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  
     标签开了不想关同胞的福音,可以储存起来 '日'后再看!有种收藏的感觉,并且据官方宣称能减少 95%的内存占用
 8.  [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  
@@ -37,11 +39,17 @@
 9.  [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)  
     vim 的替代 酷炫拽 后续补充
 10. [Tampermonkey BETA](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)  
-    红猴子 神器之一 非常强大 [介绍](/tampermonkey.md)
+    红猴子 神器之一 非常强大 [介绍](/tools/tampermonkey.md)
 11. [沙拉查词-聚合词典划词翻译](https://saladict.crimx.com/)  
-    目前个人感觉最好用的翻译插件 可以用于搜索的引擎多 并且也可以用于网上 pdf 的翻译
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429112441.png ':class=image400')  
+    目前个人感觉最好用的翻译插件 可以用于搜索的引擎多  
+    并且也可以用于网上 **pdf** 的翻译
 12. [Nimbus 截幕 & 屏幕录像机](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj)  
-    可以进行操作录像截图,滚动截图 强大
+    可以进行**录像截图**,**滚动截图**等; 唯一的槽点是截图之后并不是直接保存而是跳到一个设置页面, 暂时不能够直接保存到剪切板;  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429113420.png ':class=image400')
+
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/11111.png ':class=image400')
+
 13. [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)  
     react 开发插件 开发必备
 14. [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)  
@@ -49,16 +57,22 @@
 15. [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
     vue 开发插件 开发必备 vue 开发该不会还有人没有用过吧?
 16. [Octotree - GitHub code tree](https://www.octotree.io/)  
-    github 的补充,能够用树状图的形式查看项目
+    github 的补充,能够以树状图的形式查看项目  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429113835.png ':class=image400')
 17. [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
     跨平台测试 Chrome 应用和网站
 18. [Wappalyzer](https://www.wappalyzer.com/)  
-    能够查看当前网站所采用的开发技术栈
-19. [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb)
-    国内前端开发活跃(摸鱼)的社区, 该插件每日能够直接展示新的文章,并且推荐 github 上有意思的项目
-20. [集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)
+    能够查看当前网站所采用的开发技术栈  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429113943.png ':class=image400')
+19. [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb)  
+    国内前端开发**活跃(摸鱼)**的社区, 该插件每日能够直接展示掘金新的文章,并且推荐 github 上有意思的项目  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114040.png ':class=image400')
+20. [集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114211.png ':class=image400')
     听说是功能很强大,但我目前并没有特别深的感受,以后有发现的话再补充吧
-21. [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
-    可以直观的展示页面的 css 样式
+21. [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114348.png ':class=image400')  
+    可以直观的展示页面的 **css 样式**
 22. [类似的网站](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114728.png ':class=image400')  
     以网寻网
