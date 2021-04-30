@@ -107,3 +107,14 @@ sudo spctl --master-disable
   只是配置起来稍有门槛,但是社区早已有前辈为我们铺好了道路;
 
   !> [这是我的配置](https://github.com/FE-ng/.hammerspoon);
+
+- [SwitchHosts](https://github.com/oldj/SwitchHosts)
+
+  ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210430172813.png ':class=image400')
+
+  快速切换 hosts 方案
+  hosts 语法高亮
+  支持从网络加载远程 hosts 配置
+  可从系统菜单栏图标快速切换 hosts
+
+## 部分软件下载地址推荐[xclient](https://xclient.info/)
