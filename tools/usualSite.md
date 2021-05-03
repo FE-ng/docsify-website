@@ -6,12 +6,6 @@
 [random image](https://source.unsplash.com/)
 [Remove Image Background 移除背景图片](https://www.remove.bg/)
 
-在线图片压缩 | 在线图片压缩 | 在线图片压缩
-在线批量图片压缩
-生成随机图片
-移除图片背景
-在线抠图
-
 ## 开发
 
 [地图数据](http://datav.aliyun.com/tools/atlas/#&lat=43.565239056752944&lng=81.61224568987252&zoom=5.5)  
@@ -24,6 +18,15 @@
 
 [三角形生成器](http://apps.eky.hk/css-triangle-generator/zh-hant)  
 [sandbox](https://codesandbox.io/)
+[logo 设计](https://mybrandnewlogo.com/)
+
+[Collect UI](https://collectui.com/)(需要科学上网)
+Collect UI 画廊是一个免费的在线资源，用于每日 UI 设计灵感。
+侧边栏中有包括 404 页面、登陆/登出、购物车、日历、视频播放器等分类。  
+可以在公司项目或者个人项目上寻求一些灵感.
+
+[Colordot](https://color.hailpixel.com/)
+可以在网页区域内随意滑动鼠标，产生不同的色彩。确定一个色彩点击保存之后可以再随意滑动产生下一个色彩.
 
 ## 画流程图
 
@@ -32,16 +35,12 @@ asciiFlow
 
 ## others
 
-在线生成 Logo | 在线生成 Logo
-录制 gif 图
-给 gif 图加文字
-在线生成 Markdown 表格
-在线 PDF 转换支持多种格式
-一键下载网站所有图片&在线图片编辑
-在线图片编辑
-loading 动画 | loading 动画
-CSS 制作 loading 加载动画
-在线格式转化(支持 200+文件格式)
-在线生成二维码
+[在线生成 Markdown 表格](https://tableconvert.com/)
 
-搜索
+[loading 动画](https://loading.io/)
+
+[icons illustrations photos music and design tools](https://icons8.com/)
+
+[Epic Spinners](https://epic-spinners.epicmax.co/#/)
+
+[二维码生成](https://cli.im/)
