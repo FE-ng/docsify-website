@@ -5,5 +5,6 @@
     - [chrome 配置](/tools/chromePlugin.md)
     - [tampermonkey](/tools/tampermonkey.md)
   - [本 blog 搭建](/tools/blog.md)
+  - [常见网站](usualSite)
   - [常见问题](/usualQuestion.md)
   - [TODO](/todo.md)
