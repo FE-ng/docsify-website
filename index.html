@@ -23,6 +23,42 @@
       .image800 {
         width: 800px;
       }
+      .bouncingLoader > div,
+      .bouncingLoader:before,
+      .bouncingLoader:after {
+        display: inline-block;
+        width: 13px;
+        height: 13px;
+        background: hsl(243, 80%, 62%);
+        margin-bottom: -5px;
+        border-radius: 50%;
+        animation: bouncing-loader 0.6s infinite alternate;
+      }
+
+      .bouncingLoader > div,
+      .bouncingLoader:before,
+      .bouncingLoader:after {
+        content: '';
+      }
+
+      .bouncingLoader > div {
+        margin: 0 5px;
+      }
+
+      .bouncingLoader > div {
+        animation-delay: 0.2s;
+      }
+
+      .bouncingLoader:after {
+        animation-delay: 0.4s;
+      }
+
+      @keyframes bouncing-loader {
+        to {
+          opacity: 0.1;
+          transform: translate3d(0, -16px, 0);
+        }
+      }
     </style>
   </head>
 
@@ -33,7 +69,11 @@
         background-image: url('data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9JzMwMHB4JyB3aWR0aD0nMzAwcHgnICBmaWxsPSIjMDAwMDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWw6c3BhY2U9InByZXNlcnZlIiB2ZXJzaW9uPSIxLjEiIHN0eWxlPSJzaGFwZS1yZW5kZXJpbmc6Z2VvbWV0cmljUHJlY2lzaW9uO3RleHQtcmVuZGVyaW5nOmdlb21ldHJpY1ByZWNpc2lvbjtpbWFnZS1yZW5kZXJpbmc6b3B0aW1pemVRdWFsaXR5OyIgdmlld0JveD0iMCAwIDE2OSAzMjQiIHg9IjBweCIgeT0iMHB4IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCI+PGRlZnM+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4KICAgCiAgICAuZmlsMCB7ZmlsbDojMDAwMDAwfQogICAgLmZpbDEge2ZpbGw6IzAwMDAwMDtmaWxsLXJ1bGU6bm9uemVyb30KICAgCiAgPC9zdHlsZT48L2RlZnM+PGc+PHBhdGggY2xhc3M9ImZpbDAiIGQ9Ik02NiAxMzJjLTcsMzAgLTgsNTEgLTcsNjcgMywtNCA5LC0xMyAxMywtMTYgMywtMyAxMCwtNSAxOSwtNCAxMSwwIDE2LC02IDI0LC0xMSAwLDAgLTgsMjAgLTE5LDI2IC0xMSw2IC0xNCwxIC0yNCwxIC03LDEgLTExLDQgLTEzLDcgMSwxMiAyLDIzIDMsMzRsNTEgMCAwIDEyIC0xMTMgMCAwIC0xMiA1MyAwYzAsLTcgLTEsLTE4IC0xLC00MCAtMiwtMyAtNSwtNyAtMTIsLTggLTEwLC0xIC0xMywzIC0yNCwtNCAtMTEsLTcgLTE2LC0yNyAtMTYsLTI3IDgsNiAxMiwxMiAyMiwxMyA5LDAgMTcsMiAxOSw1IDQsNCA4LDEyIDExLDE3IDAsLTE4IDQsLTM3IDEyLC02MGwyIDB6Ij48L3BhdGg+PHBhdGggY2xhc3M9ImZpbDAiIGQ9Ik0xMDUgMjUzYzQsOCA3LDE3IDcsMjYgMCwxOSAtOSwzNSAtMjMsNDVsLTY0IDBjLTE0LC0xMCAtMjMsLTI2IC0yMywtNDUgMCwtOSAyLC0xOCA3LC0yNmw5NiAweiI+PC9wYXRoPjxwYXRoIGNsYXNzPSJmaWwxIiBkPSJNOTUgMTNjMSwtNCA0LC02IDYsLTggOCwtOCAxOCwtNiAyMiw1IDEsMyAxLDYgMSw5IDQsLTIgNywtMyAxMCwtNCAxMSwtMiAxOSw1IDE2LDE2IDAsMyAtMSw2IC0zLDkgNCwwIDcsMCAxMCwxIDExLDQgMTQsMTQgNiwyMiAtMSwzIC00LDUgLTcsNiAzLDIgNiw0IDgsNiA4LDkgNiwxOSAtNSwyMyAtMywxIC02LDEgLTEwLDEgMiwzIDQsNyA0LDEwIDMsMTEgLTQsMTggLTE2LDE2IC0yLC0xIC01LC0yIC04LC0zIDAsMyAtMSw3IC0yLDEwIC0zLDExIC0xMywxNCAtMjIsNiAtMiwtMiAtNCwtNCAtNiwtNyAtMSwzIC00LDYgLTYsOCAtOCw4IC0xOCw1IC0yMiwtNiAtMSwtMiAtMSwtNiAtMSwtOSAtNCwyIC03LDMgLTEwLDQgLTExLDIgLTE5LC01IC0xNiwtMTYgMCwtMyAxLC02IDMsLTkgLTQsMCAtNywwIC0xMCwtMSAtMTEsLTMgLTE0LC0xMyAtNiwtMjIgMiwtMiA0LC00IDcsLTYgLTMsLTIgLTYsLTQgLTgsLTYgLTgsLTggLTYsLTE5IDUsLTIyIDMsLTEgNiwtMiAxMCwtMiAtMiwtMyAtNCwtNiAtNCwtOSAtMywtMTEgNCwtMTkgMTYsLTE3IDIsMSA1LDIgOSw0IC0xLC00IDAsLTcgMSwtMTAgMywtMTEgMTMsLTE0IDIyLC03IDIsMiA0LDUgNiw4em0xNCAxMmMzLDEgNiwyIDksMyAwLC01IDEsLTExIC0xLC0xNiAtMiwtNyAtNywtOCAtMTIsLTMgLTQsNCAtNiw5IC04LDE0IDQsMCA4LDEgMTIsMnptMTIgNWM2LDMgMTIsOCAxNiwxNCAzLC00IDYsLTkgNywtMTQgMiwtNyAtMiwtMTAgLTksLTkgLTUsMiAtMTAsNSAtMTQsOXptMTggMTdjMyw2IDYsMTMgNiwyMSA1LC0yIDEwLC01IDE0LC05IDUsLTUgMywtMTAgLTQsLTEyIC01LC0yIC0xMSwtMSAtMTYsMHptNiAyNWMwLDQgMCw4IC0xLDEyIC0xLDMgLTIsNiAtMyw4IDUsMSAxMSwyIDE2LDAgNiwtMiA3LC03IDMsLTEyIC00LC01IC05LC03IC0xNSwtOHptLTYgMjRjLTQsNiAtOSwxMSAtMTQsMTUgNCw0IDgsNyAxNCw4IDYsMSAxMCwtMyA4LC05IC0xLC02IC00LC0xMCAtOCwtMTR6bS0xOCAxN2MtNiw0IC0xMyw2IC0yMCw3IDIsNSA0LDEwIDgsMTQgNiw0IDEwLDMgMTMsLTQgMSwtNSAwLC0xMSAtMSwtMTd6bS0yNCA3Yy00LDAgLTgsMCAtMTIsLTIgLTMsMCAtNiwtMSAtOCwtMyAtMSw2IC0yLDExIDAsMTYgMiw3IDcsOCAxMiwzIDQsLTMgNiwtOSA4LC0xNHptLTI0IC02Yy02LC00IC0xMiwtOSAtMTYsLTE1IC0zLDUgLTYsOSAtNywxNCAtMiw3IDIsMTAgOSw5IDUsLTEgMTAsLTUgMTQsLTh6bS0xOCAtMThjLTMsLTYgLTYsLTEzIC02LC0yMCAtNSwyIC0xMCw0IC0xNCw4IC00LDUgLTMsMTAgNCwxMiA1LDIgMTEsMSAxNiwwem0tNiAtMjRjMCwtNCAwLC04IDEsLTEzIDEsLTIgMiwtNSAzLC04IC01LC0xIC0xMSwtMSAtMTYsMCAtNiwzIC03LDggLTMsMTMgNCw0IDksNiAxNSw4em02IC0yNGM0LC03IDksLTEyIDE0LC0xNiAtNCwtMyAtOCwtNyAtMTQsLTggLTYsLTEgLTEwLDMgLTgsMTAgMSw1IDQsOSA4LDE0em0xOCAtMThjNiwtNCAxMywtNiAyMCwtNyAtMiwtNSAtNCwtMTAgLTgsLTEzIC02LC01IC0xMCwtMyAtMTIsMyAtMiw2IC0xLDExIDAsMTd6Ij48L3BhdGg+PC9nPjwvc3ZnPg==');
       "
     ></div>
-    <div id="app">loading...</div>
+    <div id="app">
+      <div class="bouncingLoader">
+        <div></div>
+      </div>
+    </div>
     <!-- 在github上编辑插件 -->
     <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
     <script>
