@@ -74,7 +74,7 @@ sudo spctl --master-disable
 
   <img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_6b0749fb-d939-4618-8262-64c5b6e4f594.png" style="width:600px;"/>
 
-- [iStat Menus （电脑性能监控）](https://bjango.com/mac/istatmenus/)  
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506192438.png ':class=image30') [iStat Menus （电脑性能监控）](https://bjango.com/mac/istatmenus/)  
    功能非常的强大 能够查看 mac 的各种信息并且支持自定义自己喜欢的表现形式和颜色;  
   <img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210426140334.png" style="width:600px;"/>
 
