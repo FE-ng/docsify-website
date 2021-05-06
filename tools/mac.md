@@ -64,7 +64,7 @@ sudo spctl --master-disable
 一款几乎必装的软件包管理工具,只是很多时候由于 GFW 的存在下载的速度堪忧,有必要更换一下国内的源;
 下载之后能够非常简单的按照很多软件
 
-- [chrome](https://www.google.com/intl/zh-CN/chrome/)
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506191852.png ':class=image30') [chrome](https://www.google.com/intl/zh-CN/chrome/)
   开发人员使用的最多浏览器,不多赘述,好用的插件另起一遍介绍;
 
   !> [插件传送门](https://docsify-website-lf.vercel.app/#/tools/chromePlugin)

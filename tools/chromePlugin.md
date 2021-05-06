@@ -7,7 +7,7 @@
 
 ## 通用型插件
 
-1. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210505104731.png ':class=image10')[Tampermonkey BETA](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)  
+1. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210505104731.png ':class=image30')[Tampermonkey BETA](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)  
    红猴子 神器之一 非常强大
 
    !> [<=================介绍=================>](/tools/tampermonkey.md)
