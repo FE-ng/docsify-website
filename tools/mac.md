@@ -84,7 +84,7 @@ sudo spctl --master-disable
 
 - ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506192908.png ':class=image30') [IINA （推荐的 macOS 视频播放器）](https://iina.io/)
 
-- [hammerspoon](http://www.hammerspoon.org/)
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506193103.png ':class=image30') [hammerspoon](http://www.hammerspoon.org/)
   这是一个用于 OS x 强大自动化的工具。在其核心上，Hammerspoon 只是操作系统和 Lua 脚本引擎之间的桥梁。  
   赋予 Hammerspoon 强大功能的是一组向用户公开系统功能特定部分的扩展。  
   小锤子! 它能做到什么? 可以给 mac 的软件设置开启(切换)的快捷键,可以迅速给当前运行的窗口分屏二分之一屏(三分之一屏幕),  
@@ -93,7 +93,7 @@ sudo spctl --master-disable
 
   !> [这是我的配置](https://github.com/FE-ng/.hammerspoon);
 
-- [Parallels Desktop](https://www.parallels.cn/)  
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506193204.png ':class=image30') [Parallels Desktop](https://www.parallels.cn/)  
   官网介绍: 无需重启即可在 Mac（包括新型 Apple M1 芯片）上运行 Windows 的应用程序，  
   同时具有速度更快、操作更简单且功能更强大的优点。包括 30 余种实用工具，可简化 Mac 和 Windows 上的日常任务  
   平时用的不多,不过在 mac 上能够做到不切换系统而使用 windows 必要的时候倒是很方便
