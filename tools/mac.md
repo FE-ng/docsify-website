@@ -82,7 +82,7 @@ sudo spctl --master-disable
 [^_^]: # (邮箱：982092332@qq.com )
 [^_^]: # (SN：GAWAE-FCWQ3-P8NYB-C7GF7-NEDRT-Q5DTB-MFZG6-6NEQC-CRMUD-8MZ2K-66SRB-SU8EW-EDLZ9-TGH3S-8SGA )
 
-- [IINA （推荐的 macOS 视频播放器）](https://iina.io/)
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506192908.png ':class=image30') [IINA （推荐的 macOS 视频播放器）](https://iina.io/)
 
 - [hammerspoon](http://www.hammerspoon.org/)
   这是一个用于 OS x 强大自动化的工具。在其核心上，Hammerspoon 只是操作系统和 Lua 脚本引擎之间的桥梁。  
