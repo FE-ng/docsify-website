@@ -69,7 +69,7 @@ sudo spctl --master-disable
 
   !> [插件传送门](https://docsify-website-lf.vercel.app/#/tools/chromePlugin)
 
-- [Paste (强化剪切板)](https://pasteapp.io/)  
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506192359.png ':class=image30') [Paste (强化剪切板)](https://pasteapp.io/)  
    可以将常用的一些操作和内容进行分类重命名储存
 
   <img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_6b0749fb-d939-4618-8262-64c5b6e4f594.png" style="width:600px;"/>
