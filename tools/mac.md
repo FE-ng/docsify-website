@@ -45,15 +45,15 @@ MacBook 提供了强大的触控板硬件，支持用力点按和多指触控。
 1. 允许来自任意来源的应用
    很多时候，我们需要安装第三方途径的软件包，对于某些软件，苹果会因为过高的安全管理权限而拒绝安装，想要处理，可以在系统的设置内解决。
 
-   <img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210426141736.png" style="width:600px;"/>
+![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210426141736.png ':class=image800')
 
-   如果找不到 “任意来源” 这个选项，可以通过一行终端的命令解决，按住 command + 空格 ，输入 “终端.app” 打开终端。在终端中输入命令：
+如果找不到 “任意来源” 这个选项，可以通过一行终端的命令解决，按住 command + 空格 ，输入 “终端.app” 打开终端。在终端中输入命令：
 
 ```bash
 sudo spctl --master-disable
 ```
 
-<img src="https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210426142947.png" style="width:600px;"/>
+![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210507114206.png)
 
 ## **软件类**
 

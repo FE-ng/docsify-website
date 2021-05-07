@@ -4,6 +4,13 @@
 教程: https://learnku.com/articles/48574  
 配置手册: https://picgo.github.io/PicGo-Doc/zh/guide/config.html
 
+hexo + vercel
+https://neroasmar.top/hexo-building/
+
+## 其他图床信息
+
+https://blog.cyfan.top/p/eb490c73.html
+
 ```md
 !> 一段重要的内容，可以和其他 **Markdown** 语法混用。
 
