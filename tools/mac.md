@@ -108,17 +108,18 @@ sudo spctl --master-disable
 
   !> [我使用的 zsh 配置](https://github.com/FE-ng/docsify-website/blob/main/.zshrc.md);
 
-- [vscode](https://code.visualstudio.com/)  
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210512200050.png ':class=image30') [vscode](https://code.visualstudio.com/)
+
   ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210503234003.png ':class=image400')  
   现阶段前端使用最多的 IDE,由微软开发维护,支持非常多的语言,有茫茫多的开发插件和活跃的社区;
 
   ?> _TODO_ 这里的插件也需要另起一篇文章介绍
 
-- [ITerm2](https://iterm2.com/)
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210512195827.png ':class=image30') [ITerm2](https://iterm2.com/)
   推荐的终端软件 ( iTerm2 )
   这是一款 macOS 用于替代 终端.app 的软件。因为它的定制化和功能非常强大，所以在配置 mac 的时候，它也会作为我使用的终端应用。
 
-- [SwitchHosts](https://github.com/oldj/SwitchHosts)
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210512200137.png ':class=image30') [SwitchHosts](https://github.com/oldj/SwitchHosts)
 
   ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210430172813.png ':class=image400')
 
