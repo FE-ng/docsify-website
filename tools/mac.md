@@ -55,6 +55,30 @@ sudo spctl --master-disable
 
 ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210507114206.png)
 
+### 常用快捷键 (可自行摸索)
+
+command + option + D : 能够控制程序坞与菜单栏是否常驻
+
+command + option + ESC : 可以查看未响应的程序并快速清除
+![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210514162013.png ':class=image600')
+
+command + M : 将当前窗口快速缩小 在程序坞与菜单栏中能够查看
+![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210514162149.png ':class=image600')
+
+command + W : 关闭或者缩小, 缩小时
+
+command + H : 将当前窗口所属的软件快速缩小 并且程序坞与菜单栏中也查看不到
+
+command + Q : 退出程序
+
+command + D : 在 finder 文件聚焦在文件上时是快速生产副本的方式 === ( command + C ) + (command + V )
+
+command + C | command + V : 复制 | 粘贴
+
+command + N : 新窗口
+
+...
+
 ## **软件类**
 
 ### 通用类
@@ -128,4 +152,4 @@ sudo spctl --master-disable
   支持从网络加载远程 hosts 配置
   可从系统菜单栏图标快速切换 hosts
 
-## 部分软件下载地址推荐[xclient](https://xclient.info/)
+## [部分软件下载地址推荐 xclient](https://xclient.info/)
