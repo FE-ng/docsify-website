@@ -106,7 +106,7 @@ command + N : 新窗口
 
 - ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506192908.png ':class=image30') [IINA （推荐的 macOS 视频播放器）](https://iina.io/)
 
-- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506193103.png ':class=image30') [hammerspoon](http://www.hammerspoon.org/)
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210506193103.png ':class=image30') [hammerspoon](http://www.hammerspoon.org/)  
   这是一个用于 OS x 强大自动化的工具。在其核心上，Hammerspoon 只是操作系统和 Lua 脚本引擎之间的桥梁。  
   赋予 Hammerspoon 强大功能的是一组向用户公开系统功能特定部分的扩展。  
   小锤子! 它能做到什么? 可以给 mac 的软件设置开启(切换)的快捷键,可以迅速给当前运行的窗口分屏二分之一屏(三分之一屏幕),  
