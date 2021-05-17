@@ -3,8 +3,6 @@
 有条件的还是推荐申请一个 chrome 账号  
 账号能够自动保存自己的插件,书签,一次配置终身享受
 
-?> _TODO_ 增加插件 icon
-
 ## 通用型插件
 
 1. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210505104731.png ':class=image30')[Tampermonkey BETA](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)  
