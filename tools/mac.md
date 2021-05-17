@@ -2,8 +2,6 @@
 
 mac 系统之于前端而言,是用过就再也回不去的霸道;
 
-?> _TODO_ 软件 icon
-
 ## **系统功能设置类**
 
 从 window 到 mac 触控板就是我无法割舍的一个重点：  
@@ -59,10 +57,10 @@ sudo spctl --master-disable
 
 command + option + D : 能够控制程序坞与菜单栏是否常驻
 
-command + option + ESC : 可以查看未响应的程序并快速清除
+command + option + ESC : 可以查看未响应的程序并快速清除  
 ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210514162013.png ':class=image600')
 
-command + M : 将当前窗口快速缩小 在程序坞与菜单栏中能够查看
+command + M : 将当前窗口快速缩小 在程序坞与菜单栏中能够查看  
 ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210514162149.png ':class=image600')
 
 command + W : 关闭或者缩小, 缩小时
@@ -77,13 +75,13 @@ command + C | command + V : 复制 | 粘贴
 
 command + N : 新窗口
 
-...
+......
 
 ## **软件类**
 
 ### 通用类
 
-- [Homebrew](https://brew.sh/)
+- ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/apple-touch-icon.png ':class=image30') [Homebrew](https://brew.sh/)
 
 一款几乎必装的软件包管理工具,只是很多时候由于 GFW 的存在下载的速度堪忧,有必要更换一下国内的源;
 下载之后能够非常简单的按照很多软件
