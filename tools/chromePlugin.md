@@ -66,55 +66,58 @@
    ![EditThisCookie](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428192924.png ':class=image400')  
    能够在当前域下便捷的处理 cookie,支持一键导入;
 
-2. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508150740.png ':class=image30') [GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien)
+2. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210514163557.png ':class=image30') [FeHelper(前端助手)](https://www.baidufe.com/fehelper/index/index.html)  
+   FeHelper 包括 JSON 自动/手动格式化、JSON 内容比对、代码美化与压缩、信息编解码转换、二维码生成与解码、图片 Base64 编解码转换、Markdown、 网页油猴、网页取色器、脑图(Xmind)等工具 确实强大
+
+3. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508150740.png ':class=image30') [GitHub Isometric Contributions](https://chrome.google.com/webstore/detail/github-isometric-contribu/mjoedlfflcchnleknnceiplgaeoegien)
 
    ![插件效果](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210428194015.png ':class=image400')  
    提供 github 2D -->3D 的贡献值切换 炫就完事了
 
-3. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508150823.png ':class=image30') [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+4. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508150823.png ':class=image30') [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
    react 开发插件 开发必备
 
-4. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508150905.png ':class=image30') [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+5. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508150905.png ':class=image30') [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
    react 开发插件 开发必备 能够查看存在 store 中的数据流向
 
-5. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508150940.png ':class=image30') [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+6. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508150940.png ':class=image30') [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 
    vue 开发插件 开发必备 vue 开发该不会还有人没有用过吧?
 
-6. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508151020.png ':class=image30') [Octotree - GitHub code tree](https://www.octotree.io/)
+7. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508151020.png ':class=image30') [Octotree - GitHub code tree](https://www.octotree.io/)
 
    github 的补充,能够以树状图的形式查看项目  
    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429113835.png ':class=image400')
 
-7. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508151055.png ':class=image30') [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+8. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508151055.png ':class=image30') [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 
    跨平台测试 Chrome 应用和网站
 
-8. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508151206.png ':class=image30') [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb)
+9. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210508151206.png ':class=image30') [掘金](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb)
 
    国内前端开发**活跃(摸鱼)**的社区, 该插件每日能够直接展示掘金新的文章,并且推荐 github 上有意思的项目  
    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114040.png ':class=image400')
 
-9. [集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)
+10. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210517150352.png ':class=image30') [集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)
 
-   ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114211.png ':class=image400')  
-   听说是功能很强大,但我目前并没有特别深的感受,以后有发现的话再补充吧
+![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114211.png ':class=image400')  
+ 听说是功能很强大,但我目前并没有特别深的感受,以后有发现的话再补充吧
 
-10. [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+11. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210517150544.png ':class=image30') [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 
     ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114348.png ':class=image400')  
     可以直观的展示页面的 **css 样式**
 
-11. [Wappalyzer](https://www.wappalyzer.com/)
+12. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210517150625.png ':class=image30') [Wappalyzer](https://www.wappalyzer.com/)
 
     能够查看当前网站所采用的开发技术栈  
     ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429113943.png ':class=image400')
 
 ## 有趣的插件
 
-1. [类似的网站](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)
+1. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210517150649.png ':class=image30') [类似的网站](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)
 
    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210429114728.png ':class=image400')  
    以网寻网
