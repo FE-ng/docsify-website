@@ -34,3 +34,47 @@
    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210518145940.png ':class=image800')  
    一个基本的拼写检查程序，可以很好地与 camelCase(驼峰型)代码一起工作。  
    这个拼写检查程序的目标是帮助捕获常见的拼写错误，能够很好的避免一些低级的错误。
+9. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210518193159.png ':class=image30') [EditorConfig for VS Code](https://editorconfig.org/)
+   editorconfig.editorconfig  
+   EditorConfig 帮助多个开发人员跨各种编辑器和 ide 在同一个项目上工作，保持一致的编码风格。
+10. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519111210.png ':class=image30') [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)  
+    dsznajder.es7-react-js-snippets  
+     基于 snippets 使用缩写即可调出常用的语句片段 eg:  
+     ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519113321.png ':class=image800')
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519113342.png ':class=image400')
+11. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519113638.png ':class=image30') [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)  
+    dbaeumer.vscode-eslint  
+    语言语法检测工具,能够为我们的代码质量保驾护航也成为了现代工程几乎必不可少的工具;
+12. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519113933.png ':class=image30') [file-size](https://marketplace.visualstudio.com/items?itemName=zh9528.file-size)
+    zh9528.file-size  
+    保存之后能够实时显示文件的大小  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519114038.png ':class=image800')
+13. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519134016.png ':class=image30') [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)  
+     donjayamanne.githistory
+    - 能够在 vscode 中以图表的形式查看 git 日志；
+    - 查看当前文件的上一个副本；
+    - 查看一个或所有分支、文件、文件中一行及作者的历史记录；
+    - 比较分支、提交及提交中文件等。  
+      ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/gitLogv3.gif ':class=image800')
+14. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519142348.png ':class=image30') [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)  
+     codezombiech.gitignore  
+    有多种语言和环境的常用 gitignore 配置文件可以选择和使用  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519142706.png ':class=image400')  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519142632.png ':class=image400')
+15. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519143042.png ':class=image30') [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)  
+     eamodio.gitlens  
+     GitLens 能帮助我们更好地理解代码。快捷的查看，某行或某个代码块被更改的原因时间。  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/revision-navigation.gif ':class=image800')
+16. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519143504.png ':class=image30') [HTML Snippets](https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets)  
+     abusaidm.html-snippets  
+     在 vscode 中能够拓展 h5 标签 给出提示
+17. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519144615.png ':class=image30') [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+    xabikos.javascriptsnippets  
+    这个扩展包含了 Vs code 编辑器的 ES6 语法的 JavaScript 代码片段(同时支持 JavaScript 和 TypeScript)。
+18. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519144828.png ':class=image30') [LeetCode](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode)
+    leetcode.vscode-leetcode  
+    这个插件可以让我们在 vscode 编辑器中解决 leetcode 中的算法题
+19. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210519145046.png ':class=image30')[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
+    ritwickdey.liveserver  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/vscode-live-server-animated-demo.gif ':class=image800')  
+    可以在本地库快速启动一个服务查看自己的页面
