@@ -78,3 +78,52 @@
     ritwickdey.liveserver  
     ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/vscode-live-server-animated-demo.gif ':class=image800')  
     可以在本地库快速启动一个服务查看自己的页面
+20. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520163845.png ':class=image30') [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)  
+    yzane.markdown-pdf  
+    该插件能够将本地的 markdonw 文件转化成 pdf 或者 png 等格式;
+21. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520164121.png ':class=image30') [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)  
+    christian-kohler.npm-intellisense  
+    能够在我们需要 import 某个 npm 模块的时候进行提醒  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/auto_complete.gif ':class=image800')
+22. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520164802.png ':class=image30') [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)  
+    christian-kohler.path-intellisense  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/iaHeUiDeTUZuo.gif ':class=image800')  
+    能够智能的提醒路径
+23. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520165152.png ':class=image30') [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
+     esbenp.prettier-vscode
+    现代开发中几乎必须的代码风格格式化插件  
+    让代码更加的整洁,还能够通过自动保存来自动格式化 省心省力  
+    面对团队开发时只需要采用一套配置就不会出现代码格式混乱的问题
+24. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520165716.png ':class=image30') [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)  
+     shan.code-settings-sync
+    能够同步插件配置的插件 有了它妈妈再也不用担心需要重新搭建自己 vscode 的开发环境了
+25. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520165852.png ':class=image30') [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)  
+     stylelint.vscode-stylelint  
+    lint 之一具有保持 css 文件风格的插件,适当的配置之后还能够提示 css 上语法的不当
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520165945.png ':class=image800')
+26. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520170117.png ':class=image30') [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)  
+    cssho.vscode-svgviewer  
+    能够在文件中实时插件 svg 格式的文件  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/from_context.gif ':class=image800')
+27. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520170335.png ':class=image30') Tabnine Autocomplete AI(https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+    Tabnine 是一个强大的人工智能助手，旨在帮助我们能够更快的编程，减少错误，并发现最佳编码实践。  
+    通过研究公开共享的代码，并使用了 A.I 深度学习算法，来预测我们下一个编码需求，并给出建议来一键完成代码。  
+    缺点是会有点占用内存,但和 mbp 一样贵不是它的错 😭
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/with-and-without-tabnine-java.gif ':class=image800')
+28. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520171001.png ':class=image30') [Template String Converter](https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter)  
+    meganrogge.template-string-converter  
+    能够在我们书写代码时 及时将需要使用模板字符的时候将字符串自动转化  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/demo.gif ':class=image800')
+29. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520171224.png ':class=image30') [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)  
+     wayou.vscode-todo-highlight
+    能够在代码中进行高亮提示  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520171236.png ':class=image800')
+30. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520171441.png ':class=image30') [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)  
+    britesnow.vscode-toggle-quotes  
+    能够通过快捷键 快速的在单引号 双引号 反引号直接无缝转化
+31. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210520173919.png ':class=image30') [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)  
+    octref.vetur
+    - Vetur 支持 vue 文件的语法高亮显示
+    - 添加 snippet 片段
+    - 错误检测 默认使用 eslint-plugin-vue@beta 来检测 <template>模块
+    - 定义格式
