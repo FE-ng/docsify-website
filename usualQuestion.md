@@ -58,3 +58,16 @@ temp.map?.((i) => doSomething(i));
 ```
 
 之前都只是简单的使用可选链去获取对象 value,但是文档里面写的很清楚可以用于函数!
+
+Warning: Instance created by `useForm` is not connected to any Form element. Forget to pass `form` prop?
+
+## 兼容性问题
+
+"html-webpack-plugin": "^4.5.0",
+
+html-webpack-plugin 和 webpack5 同时使用时  
+html-webpack-plugin didn't return html  
+经过排查问题发现是 html-webpack-plugin 版本滞后与 webpack5 不兼容导致的升级 html-webpack-plugin 到最新即可
+[相似问题](https://github.com/jantimon/html-webpack-plugin/issues/1556)
+
+[webpack5 采坑问题](https://juejin.cn/post/6905364009969844232#heading-2)
