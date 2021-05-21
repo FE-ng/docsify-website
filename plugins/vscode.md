@@ -127,3 +127,24 @@
     - 添加 snippet 片段
     - 错误检测 默认使用 eslint-plugin-vue@beta 来检测 <template>模块
     - 定义格式
+32. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210521113937.png ':class=image30') [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+    vscode-icons-team.vscode-icons  
+    能够为创建的文件夹及文件添加相应的 icon,让 vscode 不再单调  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/screenshot.gif ':class=image800')
+33. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210521114325.png ':class=image30') [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+    jpoissonnier.vscode-styled-components  
+    该插件能够给使用了 styled-components 的部分进行有色展示 顺眼罢了
+    ![效果图](<https://raw.githubusercontent.com/FE-ng/picGo/main/blog/demo%20(1).gif> ':class=image800')
+34. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210521114613.png ':class=image30') [CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream)
+    codestream.codestream
+    CodeStream 是一个开发者协作平台，通过将基本的开发协作工具集成到 VS Code 中。  
+    让使用者团队能够无缝衔接进行 review 和讨论;  
+    未提供中文界面以及损耗的内容较多是一大痛点特别对于 8G 的内存而言  
+    ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/PullRequest-VSC.gif ':class=image800')
+35. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210521150740.png ':class=image30') [koroFileHeader](https://marketplace.visualstudio.com/items?itemName=OBKoro1.korofileheader)  
+     obkoro1.korofileheader
+    - 可拓展性强
+    - 头部添加注释: ctrl+cmd+i
+    - 在光标处添加函数注释: ctrl+cmd+t
+    - 支持一键添加佛祖保佑永无 BUG、神兽护体等注释图案(哎 就是玩) ctrl+cmd+j  
+      ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/example.gif ':class=image800')
