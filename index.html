@@ -23,6 +23,10 @@
         width: 30px;
         vertical-align: middle;
       }
+      .image60 {
+        width: 60px;
+        vertical-align: middle;
+      }
       .image400 {
         width: 400px;
         vertical-align: middle;
@@ -221,6 +225,20 @@
     window.onhashchange = function (event) {
       if (event.newURL.split('?')[0] !== event.oldURL.split('?')[0]) {
         location.reload();
+        // const gitalk = new Gitalk({
+        //   clientID: '4caa5423fc539ac160f6',
+        //   clientSecret: 'df863a84428df83b9ba91d1e3e6cb8b4c9b5e8bb',
+        //   repo: 'gitalk',
+        //   owner: 'FE-ng',
+        //   admin: ['FE-ng'],
+        //   // id: location.href,
+        //   id: md5(location.href),
+        //   // location.hash.match(/#(.*?)([?]|$)/)[1]
+        //   title: 'docsify',
+        //   // facebook-like distraction free mode
+        //   distractionFreeMode: false,
+        // });
+        // gitalk.render('gitalk-container');
       }
     };
   </script>
