@@ -125,7 +125,7 @@
     octref.vetur
     - Vetur 支持 vue 文件的语法高亮显示
     - 添加 snippet 片段
-    - 错误检测 默认使用 eslint-plugin-vue@beta 来检测 <template>模块
+    - 错误检测 默认使用 eslint-plugin-vue@beta 来检测 template 模块
     - 定义格式
 32. ![效果图](https://raw.githubusercontent.com/FE-ng/picGo/main/blog/20210521113937.png ':class=image30') [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
     vscode-icons-team.vscode-icons  
