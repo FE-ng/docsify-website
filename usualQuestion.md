@@ -58,3 +58,11 @@ temp.map?.((i) => doSomething(i));
 ```
 
 之前都只是简单的使用可选链去获取对象 value,但是文档里面写的很清楚可以用于函数!
+
+## antd modal
+
+antd 的 modal 在使用传参 destroyOnClose 时 state 里面的数据并不会重置
+
+## vscode command + q
+
+使用 SlowQuitApps 进行控制

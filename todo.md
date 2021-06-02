@@ -70,3 +70,22 @@
 
 23. 
 ?> vscode 插件补充
+
+
+https://zhuanlan.zhihu.com/p/35668237
+
+
+
+defaults write com.dteoh.SlowQuitApps whitelist -array-add com.microsoft.VSCode
+
+
+defaults read com.dteoh.SlowQuitApps whitelist
+
+
+
+alt + s 开关chrome vim
+killall SlowQuitApps
+
+
+  { "key": "cmd+q", "command": "-workbench.action.quit", "when": "isMac" },
+    { "key": "cmd+q cmd+q", "command": "workbench.action.quit", "when": "isMac" },
